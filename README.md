@@ -14,5 +14,6 @@ Main librairies:
 Technical points:
   - Cleaning
   - Preprocessing
+  - Univariate & multivariate analysis
   - PCA
   - Anova
